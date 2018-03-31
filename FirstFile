@@ -1,3 +1,5 @@
 This is the very first file in master bransh.
 
-This is a row I change to get Merge Conflict.
+
+This is a row I change to get Merge Conflict. <=Merge Conflict was here=> Trying to 
+get Merge Conflict. File in a NewBranch changed.
